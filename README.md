@@ -3,20 +3,20 @@ This is my repository for the SQL Data Analytics Project, "Analyzing customer tr
 * ## About Dataset:
   * Retail dataset of a global superstore for 4 years.
   * The Dataset Contains Following Columns:
-    a. Order ID
+    * a. Order ID
     b. Order Date
     c. Ship Date
     d. Ship Mode
     e. Customer ID
-    f. Customer Name
+    * f. Customer Name
     g. Segment
     h. Country
     i. City
     j. State
-    k. Postal Code
+    * k. Postal Code
     l. Region
     m. Product ID
     n. Category
     o. Sub-Category
-    p. Product Name
+    * p. Product Name
     q. Sales

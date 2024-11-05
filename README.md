@@ -3,8 +3,8 @@ This is my repository for the SQL Data Analytics Project, "Analyzing customer tr
 * ## About Dataset:
   * Retail dataset of a global superstore for 4 years.
   * The Dataset Contains Following Columns:
-    1)Order ID
-    2)Order Date
+    1. Order ID
+    * Order Date
     3)Ship Date
     4)Ship Mode
     5)Customer ID

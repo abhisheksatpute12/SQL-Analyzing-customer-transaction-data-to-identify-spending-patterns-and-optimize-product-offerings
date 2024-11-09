@@ -38,10 +38,10 @@ and customer satisfaction to streamline logistics.
    * 3. Regional and Seasonal Insights: Recognize high-performing regions and peak sales periods.
    * 4. Enhanced Operational Efficiency: Analyze shipping modes and costs to optimize logistics and customer satisfaction.
 * ## Business Insights 
-- Customers from the consumer segment generate 50.84 % of revenue.
-- products in the technology category generate  36.58 % of revenue.
-The west region generates 31.40 % of revenue while the south region generates 11.2 % of revenue.
+   - Customers from the consumer segment generate 50.84 % of revenue.
+   - products in the technology category generate  36.58 % of revenue.
+   - The western region generates 31.40 % of revenue while the southern region generates 11.2 % of revenue.
 * ## Recommendations
-- Targeting customers in the consumer segment is advantageous.
-- Maintaining an inventory of products in the technology category is advantageous.
-- It is essential to concentrate on the southern region to boost sales.
+   - Targeting customers in the consumer segment is advantageous.
+   - Maintaining an inventory of products in the technology category is advantageous.
+   - It is essential to concentrate on the southern region to boost sales.
